@@ -8,7 +8,7 @@
 
 - 🆓 Gratuito para Todos
 - 👨‍💻 Abordagem Prática
-- ⌛ Flexibilidade de horários
+- ⌛ Flexibilidade de Horários
 
 ## Público Alvo
 
