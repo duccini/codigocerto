@@ -18,7 +18,9 @@
 
 ## O que Oferecemos
 
-[!SUCCESS] Projetos voluntários
+> [!SUCCESS]
+> Projetos voluntários
+
 [!SUCCESS] Oportunidades de Crescimento e Networking
 [!SUCCESS] Aprendizado Prático de Ferramentas e Métodos Ágeis
 [!SUCCESS] Introdução ao Versionamento de Código
