@@ -2,7 +2,7 @@
 
 # Código Certo
 
-Impulsionando a Inovação e Desenvolvimento Digital
+**Impulsionando a Inovação e Desenvolvimento Digital**
 
 ## Nossos Diferenciais
 
@@ -18,10 +18,12 @@ Impulsionando a Inovação e Desenvolvimento Digital
 
 ## O que Oferecemos
 
-- Projetos voluntários
-- Oportunidades de Crescimento e Networking
-- Aprendizado Prático de Ferramentas e Métodos Ágeis
-- Introdução ao Versionamento de Código
+[!SUCCESS] Projetos voluntários
+[!SUCCESS] Oportunidades de Crescimento e Networking
+[!SUCCESS] Aprendizado Prático de Ferramentas e Métodos Ágeis
+[!SUCCESS] Introdução ao Versionamento de Código
+
+<p></p>
 
 <a href="https://www.linkedin.com/company/codigocerto/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
