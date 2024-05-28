@@ -18,10 +18,10 @@
 
 ## O que Oferecemos
 
-1 Projetos voluntários
-2 Oportunidades de Crescimento e Networking
-3 Aprendizado Prático de Ferramentas e Métodos Ágeis
-4 Introdução ao Versionamento de Código
+1. Projetos voluntários
+2. Oportunidades de Crescimento e Networking
+3. Aprendizado Prático de Ferramentas e Métodos Ágeis
+4. Introdução ao Versionamento de Código
 
 #
 
