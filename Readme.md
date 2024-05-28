@@ -4,7 +4,7 @@
 
 Impulsionando a Inovação e Desenvolvimento Digital
 
-## Diferenciais da Código Certo
+## Nossos Diferenciais
 
 - 🆓 Gratuito para Todos
 - 👨‍💻 Abordagem Prática
@@ -22,3 +22,7 @@ Impulsionando a Inovação e Desenvolvimento Digital
 - Oportunidades de Crescimento e Networking
 - Aprendizado Prático de Ferramentas e Métodos Ágeis
 - Introdução ao Versionamento de Código
+
+<a href="https://www.linkedin.com/company/codigocerto/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
