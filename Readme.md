@@ -18,14 +18,12 @@
 
 ## O que Oferecemos
 
-> [!SUCCESS]
-> Projetos voluntários
+1 Projetos voluntários
+2 Oportunidades de Crescimento e Networking
+3 Aprendizado Prático de Ferramentas e Métodos Ágeis
+4 Introdução ao Versionamento de Código
 
-[!SUCCESS] Oportunidades de Crescimento e Networking
-[!SUCCESS] Aprendizado Prático de Ferramentas e Métodos Ágeis
-[!SUCCESS] Introdução ao Versionamento de Código
-
-<p></p>
+#
 
 <a href="https://www.linkedin.com/company/codigocerto/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
