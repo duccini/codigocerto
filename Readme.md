@@ -8,17 +8,17 @@
 
 - 🆓 Gratuito para Todos
 - 👨‍💻 Abordagem Prática
-- ⌛ Flexibilidade
+- ⌛ Flexibilidade de horários
 
 ## Público Alvo
 
-- 🧑‍🎓Estudantes
-- 🧑‍💼Profissionais Iniciantes
-- 🧓Profissionais Experientes
+- 🧑‍🎓Estudantes em busca de aprendizado prático e networking
+- 🧑‍💼Profissionais Iniciantes em busca de mentoria, suporte e experiência
+- 🧓Profissionais Experientes em busca de oportunidades de liderança
 
 ## O que Oferecemos
 
-1. Projetos voluntários
+1. Projetos voluntários na sua área de interesse
 2. Oportunidades de Crescimento e Networking
 3. Aprendizado Prático de Ferramentas e Métodos Ágeis
 4. Introdução ao Versionamento de Código
