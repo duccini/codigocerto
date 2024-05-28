@@ -2,10 +2,23 @@
 
 # Código Certo
 
-<span style="color:red">Impulsionando a Inovação e Desenvolvimento Digital</span>
+Impulsionando a Inovação e Desenvolvimento Digital
 
 ## Diferenciais da Código Certo
 
 - 🆓 Gratuito para Todos
 - 👨‍💻 Abordagem Prática
 - ⌛ Flexibilidade
+
+## Público Alvo
+
+- 🧑‍🎓Estudantes
+- 🧑‍💼Profissionais Iniciantes
+- 🧓Profissionais Experientes
+
+## O que Oferecemos
+
+- Projetos voluntários
+- Oportunidades de Crescimento e Networking
+- Aprendizado Prático de Ferramentas e Métodos Ágeis
+- Introdução ao Versionamento de Código
